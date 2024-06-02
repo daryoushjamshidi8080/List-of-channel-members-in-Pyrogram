@@ -1,4 +1,5 @@
-Using this code, you can create a pyrogram in Python using the library
+Using the Pyrogram library in Python
+At the bottom of the code 
 Get the list of supergroup members and your desired sponsor channel and force him to become a member of that sponsor channel
 
 ترجمه متن بالا
